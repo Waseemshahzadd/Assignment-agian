@@ -11,7 +11,7 @@
   padding: 0px;
   font-family: "Montserrat", sans-serif;
   box-sizing: border-box;
-  scroll-behavior: smooth;
+  
 
 }
 nav {
@@ -24,7 +24,7 @@ nav {
   top: 0;
   z-index: 1;
   box-shadow: rgb(0, 0, 0.1) 0px 1px 2px 0px;
-  height: 100px;
+  
 }
 #main {
   width: 100%;
